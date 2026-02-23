@@ -19,7 +19,7 @@ const userSchema = new mongoose.Schema({
   picture: {
     type: String,
     required: true,
-    default: 'https://res.cloudinary.com/rahul4019/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1695133265/pngwing.com_zi4cre.png'
+    default: 'https://cdn.dribbble.com/userupload/17799497/file/original-8513463c4ccde3b2fe6cc739b29e562a.jpg?resize=400x0'
   }
 });
 
